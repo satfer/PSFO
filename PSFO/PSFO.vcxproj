@@ -115,6 +115,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CategoryDataSet.h" />
+    <ClInclude Include="CategoryDataStream.h" />
+    <ClInclude Include="Encoder.h" />
+    <ClInclude Include="GeneralizedRandomizedResponse.h" />
+    <ClInclude Include="HashFunctions.h" />
+    <ClInclude Include="PSFO.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

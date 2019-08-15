@@ -14,4 +14,29 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PSFO.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CategoryDataSet.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CategoryDataStream.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneralizedRandomizedResponse.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Encoder.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HashFunctions.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
